@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Codex added to journal!"
+      "Eng": "Codex added to journal!",
+      "Por": "Кодекс додано до журналу!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Codex already known."
+      "Eng": "Codex already known.",
+      "Por": ""
     }
   }
 ]
