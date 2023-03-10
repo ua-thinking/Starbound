@@ -16815,7 +16815,6 @@
   },
   "quests/bounty/cultist_mission1.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16973,7 +16972,6 @@
   },
   "quests/bounty/kill_bounty_monster.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
