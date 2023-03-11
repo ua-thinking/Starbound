@@ -62,7 +62,7 @@
     },
     "Texts": {
       "Eng": "The ^orange;Matter Manipulator^white;.",
-      "Ukr": ""
+      "Ukr": "^orange;Маніпулятор Матерії^white;."
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Wha- What the...",
-      "Ukr": ""
+      "Ukr": "Щ- Що за...."
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "Texts": {
       "Eng": "You, Graduate! Take the Manipulator and run! Get to safety!",
-      "Ukr": "Агов, Випускнику! Хватай Маніпулятор та тікай! Дістанься безпечної місцини! "
+      "Ukr": "Агов, Випускнику! Хапай Маніпулятор та тікай! Дістанься безпечної місцини! "
     }
   }
 ]
