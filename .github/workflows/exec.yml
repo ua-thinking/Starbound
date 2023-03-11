@@ -25,7 +25,7 @@ jobs:
     - name: Run percent.py and commit changes
       run: |
         cd tools
-        python percent.py
+        python percents.py
         git config --global user.email "ihor@noleron.com"
         git config --global user.name "Ihor Andreew"
         git add .
