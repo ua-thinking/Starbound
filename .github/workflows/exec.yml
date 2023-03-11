@@ -20,7 +20,7 @@ jobs:
     - name: Run percents.py
       run: |
         cd tools
-        python percent.py
+        python percents.py
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
