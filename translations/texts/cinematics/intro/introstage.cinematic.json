@@ -1,6 +1,11 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Понад п'ятьох століть,",
+      "Протягом 500 років, ",
+      ", приєднуючи раси усіх видів в ім'я миру",
+      "доєднуючи раси усіх видів заради миру"
+    ],
     "Files": {
       "cinematics/intro/introstage.cinematic": [
         "/panels/24/text"
@@ -8,7 +13,7 @@
     },
     "Texts": {
       "Eng": "For over 500 years we have stood proud here on Earth, drawing together races of all kinds in the name of peace.",
-      "Ukr": ""
+      "Ukr": "Більше п'яти сотень років ми гордо жили тут, на Землі, долучаючи раси всіх видів заради миру."
     }
   },
   {
@@ -30,7 +35,13 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Друзі-Протектори,",
+      "Мої ______-Протектори,",
+      "побачити ріст Протекторату",
+      "Протектори-партнери, ",
+      "\"Щоб\" замість \"аби\""
+    ],
     "Files": {
       "cinematics/intro/introstage.cinematic": [
         "/panels/23/text"
@@ -38,7 +49,7 @@
     },
     "Texts": {
       "Eng": "My fellow Protectors... Today we come together to witness the Protectorate grow.",
-      "Ukr": ""
+      "Ukr": "Колеги-Протектори... Сьогодні ми зібрались, аби засвідчити ріст Протекторату. "
     }
   },
   {
