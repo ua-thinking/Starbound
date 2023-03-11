@@ -1,6 +1,11 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спалена земля",
+      "Вуглиста пустеля",
+      "Згарищна земля",
+      ""
+    ],
     "Files": {
       "biomes/surface/scorched.biome": [
         "/friendlyName"
