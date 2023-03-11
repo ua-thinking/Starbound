@@ -355,11 +355,11 @@
     "codex.config.json": 2,
     "collections": {
       "actionfigures.collection.json": 0,
-      "bugs.collection.json": 0,
-      "cooking.collection.json": 0,
+      "bugs.collection.json": 1,
+      "cooking.collection.json": 1,
       "fishing.collection.json": 0,
       "fossils.collection.json": 0,
-      "monsters.collection.json": 0,
+      "monsters.collection.json": 1,
       "raremonsters.collection.json": 0
     },
     "damage": {
@@ -421,7 +421,7 @@
       "shared_lightbulb.json": 0
     },
     "help.config.json": 1,
-    "hunger.config.json": 0,
+    "hunger.config.json": 8,
     "interface": {
       "ai": {
         "ai.config.json": 0
@@ -3906,7 +3906,7 @@
         "yellowflashlight.flashlight.json": 0
       }
     },
-    "items.json": 0,
+    "items.json": 4,
     "liquids": {
       "corelava.liquid.json": 0,
       "fuel.liquid.json": 0,
@@ -5059,7 +5059,7 @@
       "tutorialtenant.npctype.json": 0,
       "wizardmerchant.npctype.json": 0
     },
-    "npcs.json": 0,
+    "npcs.json": 3,
     "objects": {
       "actionfigure": {
         "adultpoptop": {
@@ -13870,7 +13870,7 @@
       "shared_tarcrystal.json": 0
     },
     "shared_teleporter.json": 0,
-    "shared_thorns.json": 0,
+    "shared_thorns.json": 1,
     "shared_throwingblock..json": 0,
     "shared_tribalplatform.mat.json": 0,
     "shared_tungstenplatform.mat.json": 0,
