@@ -27,8 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STARBOUND_SECRET }}
         run: |
           cd tools
-          git add totallabels.json
-          git add translatedlabels.json
+          python3 create_files.py
           python3 percents.py
           git config --local user.email "ihor@noleron.com"
           git config --local user.name "Ihor Andreew"
