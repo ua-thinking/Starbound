@@ -92,11 +92,11 @@ for subdir, dirs, files in walk(translations_dir):
     set_count(labelsTotal,filename, len(jsondata))
     set_count(labelsTranslated,filename, 0)
     for label in jsondata:
-      if "Por" not in label["Texts"] or len(label["Texts"]["Por"]) == 0:
+      if "Ukr" not in label["Texts"] or len(label["Texts"]["Ukr"]) == 0:
         continue
 
       add_count(labelsTranslated, filename, 1)
-      translation = label["Texts"]["Por"]
+      translation = label["Texts"]["Ukr"]
       if filename.endswith("codex.json") and not check_translation_length(translation):
         print("Warning! String too long in file: " + filename)
       

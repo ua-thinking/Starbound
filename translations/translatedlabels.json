@@ -1,6 +1,6 @@
 {
   "texts": {
-    "_metadata.json": 0,
+    "_metadata.json": 1,
     "ai": {
       "ai.config.json": 0,
       "missionapex1.aimission.json": 0,
@@ -140,7 +140,7 @@
         "wilderness.biome.json": 0
       }
     },
-    "blueprint.config.json": 0,
+    "blueprint.config.json": 2,
     "celestial.config.json": 0,
     "cinematics": {
       "intro": {
