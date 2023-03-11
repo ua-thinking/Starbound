@@ -311,7 +311,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 3 Planet"
+      "Eng": "Tier 3 Planet",
+      "Ukr": "Планета третього рівня"
     }
   },
   {
@@ -322,7 +323,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 4 Moon"
+      "Eng": "Tier 4 Moon",
+      "Ukr": "Місяць четвертого рівня"
     }
   },
   {
@@ -333,7 +335,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 4 Planet"
+      "Eng": "Tier 4 Planet",
+      "Ukr": "Планета четвертого рівня"
     }
   },
   {
@@ -344,7 +347,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 5 Moon"
+      "Eng": "Tier 5 Moon",
+      "Ukr": "Місяць п'ятого рівня"
     }
   },
   {
@@ -355,7 +359,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 5 Planet"
+      "Eng": "Tier 5 Planet",
+      "Ukr": "Планета п'ятого рівня"
     }
   },
   {
@@ -366,7 +371,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 6 Moon"
+      "Eng": "Tier 6 Moon",
+      "Ukr": "Місяць шостого рівня"
     }
   },
   {
@@ -377,7 +383,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 6 Planet"
+      "Eng": "Tier 6 Planet",
+      "Ukr": "Планета шостого рівня"
     }
   }
 ]
