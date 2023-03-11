@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стільник"
+    ],
     "Files": {
       "biomes/surface_detached/hive.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Hive"
+      "Eng": "Hive",
+      "Ukr": "Вулик"
     }
   }
 ]
