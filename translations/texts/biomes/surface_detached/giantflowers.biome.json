@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Гігантські квіти",
+      "Величезні квіти"
+    ],
     "Files": {
       "biomes/surface_detached/giantflowers.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Giantflowers"
+      "Eng": "Giantflowers",
+      "Ukr": "Велетенські квіти"
     }
   }
 ]
