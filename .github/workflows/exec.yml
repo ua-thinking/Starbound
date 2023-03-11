@@ -17,7 +17,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Run percent.py
+    - name: Run percents.py
       run: |
         cd tools
         python percent.py
