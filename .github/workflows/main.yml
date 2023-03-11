@@ -24,7 +24,7 @@ jobs:
 
     - name: Оновлення відсотків на сайті
       env:
-        GITHUB_TOKEN: ${{ secrets.NOLERON }}
+        GITHUB_TOKEN: ${{ secrets.STARBOUND_SECRET }}
       run: |
         cd tools
         python percents.py
