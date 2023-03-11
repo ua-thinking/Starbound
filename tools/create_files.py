@@ -1,8 +1,16 @@
 import json
-import yaml
+import os
 
-with open('totallabels.json', 'w') as f:
+# переконуємося, що поточна робоча директорія - головна директорія проєкту
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+# створюємо папку translations, якщо її ще немає
+if not os.path.exists('translations'):
+    os.makedirs('translations')
+
+# створюємо порожні файли з відповідними іменами у папці translations
+with open('translations/totallabels.json', 'w') as f:
     json.dump({}, f)
 
-with open('totallabels.yaml', 'w') as f:
-    yaml.dump({}, f)
+with open('translations/translation_en.json', 'w') as f:
+    json.dump({}, f)
