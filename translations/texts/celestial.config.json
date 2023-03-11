@@ -1,24 +1,30 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Стародавній вхід"
+    ],
     "Files": {
       "celestial.config": [
         "/planetaryTypes/AncientGateway/baseParameters/description"
       ]
     },
     "Texts": {
-      "Eng": "Ancient Gateway"
+      "Eng": "Ancient Gateway",
+      "Ukr": "Давній прохід"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Безплідна планета"
+    ],
     "Files": {
       "celestial.config": [
         "/planetaryTypes/Barren/baseParameters/description"
       ]
     },
     "Texts": {
-      "Eng": "Barren Planet"
+      "Eng": "Barren Planet",
+      "Ukr": "Суха планета"
     }
   },
   {
@@ -29,7 +35,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bog Standard Moon"
+      "Eng": "Bog Standard Moon",
+      "Ukr": "Звичайний місяць"
     }
   },
   {
@@ -40,7 +47,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gas Giant Planet"
+      "Eng": "Gas Giant Planet",
+      "Ukr": "Велетенська газова планета"
     }
   },
   {
@@ -51,7 +59,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Large Blue Star"
+      "Eng": "Large Blue Star",
+      "Ukr": "Велика блакитна зірка"
     }
   },
   {
@@ -62,7 +71,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Large Orange Star"
+      "Eng": "Large Orange Star",
+      "Ukr": "Велика помаранчева зірка"
     }
   },
   {
@@ -73,7 +83,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Large Red Star"
+      "Eng": "Large Red Star",
+      "Ukr": "Велика червона зірка"
     }
   },
   {
@@ -84,7 +95,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Large White Star"
+      "Eng": "Large White Star",
+      "Ukr": "Велика біла зірка"
     }
   },
   {
@@ -95,7 +107,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Large Yellow Star"
+      "Eng": "Large Yellow Star",
+      "Ukr": "Велика жовта зірка"
     }
   },
   {
@@ -106,7 +119,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medium Blue Star"
+      "Eng": "Medium Blue Star",
+      "Ukr": "Середня синя зірка"
     }
   },
   {
@@ -117,7 +131,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medium Orange Star"
+      "Eng": "Medium Orange Star",
+      "Ukr": "Середня помаранчева зірка"
     }
   },
   {
@@ -128,7 +143,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medium Red Star"
+      "Eng": "Medium Red Star",
+      "Ukr": "Середня червона зірка"
     }
   },
   {
@@ -139,7 +155,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medium White Star"
+      "Eng": "Medium White Star",
+      "Ukr": "Середня біла зірка"
     }
   },
   {
@@ -150,7 +167,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medium Yellow Star"
+      "Eng": "Medium Yellow Star",
+      "Ukr": "Середня жовта зірка"
     }
   },
   {
@@ -161,7 +179,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Moon Planet"
+      "Eng": "Moon Planet",
+      "Ukr": "Місяць"
     }
   },
   {
@@ -172,7 +191,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Small Blue Star"
+      "Eng": "Small Blue Star",
+      "Ukr": "Маленька синя зірка"
     }
   },
   {
@@ -183,7 +203,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Small Orange Star"
+      "Eng": "Small Orange Star",
+      "Ukr": "Маленька помаранчева зірка"
     }
   },
   {
@@ -194,7 +215,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Small Red Star"
+      "Eng": "Small Red Star",
+      "Ukr": "Маленька червона зірка"
     }
   },
   {
@@ -205,7 +227,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Small White Star"
+      "Eng": "Small White Star",
+      "Ukr": "Маленька біла зірка"
     }
   },
   {
@@ -216,7 +239,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Small Yellow Star"
+      "Eng": "Small Yellow Star",
+      "Ukr": "Маленька жовта зірка"
     }
   },
   {
@@ -227,7 +251,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 1 Moon"
+      "Eng": "Tier 1 Moon",
+      "Ukr": "Місяць першого рівня"
     }
   },
   {
@@ -238,7 +263,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 1 Planet"
+      "Eng": "Tier 1 Planet",
+      "Ukr": "Планета першого рівня"
     }
   },
   {
@@ -249,7 +275,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 2 Moon"
+      "Eng": "Tier 2 Moon",
+      "Ukr": "Місяць другого рівня"
     }
   },
   {
@@ -260,7 +287,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 2 Planet"
+      "Eng": "Tier 2 Planet",
+      "Ukr": "Планета другого рівня"
     }
   },
   {
@@ -271,7 +299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tier 3 Moon"
+      "Eng": "Tier 3 Moon",
+      "Ukr": "Місяць третього рівня"
     }
   },
   {
