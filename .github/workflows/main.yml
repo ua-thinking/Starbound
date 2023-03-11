@@ -1,35 +1,33 @@
-name: Оновлення відсотків на сайті
+name: Create and update translations files
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
-  generate_percents:
+  create-and-update-files:
+    name: Створення та оновлення нових файлів
     runs-on: ubuntu-latest
+
     steps:
-      - name: Перевірка репа
-        uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-      - name: Видалення старих файлів
-        run: |
-          rm -f totallabels.json
-          rm -f translatedlabels.json
+    - name: Видалення старих файлів
+      run: |
+        rm -f translations/totallabels.json
+        rm -f translations/translatedlabels.json
 
-      - name: Встановлення залежностей
-        run: |
-          sudo apt-get install -y python3
-          pip3 install requests
+    - name: Створення нових файлів
+      working-directory: ./tools
+      run: |
+        python create_files.py
+        python percents.py
 
-      - name: Генерація відсотків
-        env:
-          GITHUB_TOKEN: ${{ secrets.STARBOUND_SECRET }}
-        run: |
-          cd tools
-          python3 create_files.py
-          python3 percents.py
-          git config --local user.email "ihor@noleron.com"
-          git config --local user.name "Ihor Andreew"
-          git commit -m "Оновлення відсотків на сайті"
-          git push
+    - name: Комміт
+      run: |
+        git config --global user.name "Ihor Andreew"
+        git config --global user.email "ihor@noleron.com"
+        git add translations/*
+        git commit -m "Оновлення відсотків на сайті"
+        git push
