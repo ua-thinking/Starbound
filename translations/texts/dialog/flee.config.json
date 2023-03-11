@@ -168,7 +168,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я зробив це!"
+    ],
     "Files": {
       "dialog/flee.config": [
         "/safe/default/default/4"
@@ -176,7 +178,7 @@
     },
     "Texts": {
       "Eng": "I made it!",
-      "Ukr": ""
+      "Ukr": "Зробив це!"
     }
   },
   {
