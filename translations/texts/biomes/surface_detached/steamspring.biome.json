@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ліс з трубопроводів",
+      "Парове джерело"
+    ],
     "Files": {
       "biomes/surface_detached/steamspring.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Steamspring"
+      "Eng": "Steamspring",
+      "Ukr": "Паровий ліс"
     }
   }
 ]
