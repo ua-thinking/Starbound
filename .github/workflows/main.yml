@@ -1,4 +1,4 @@
-name: Оновлення відсотків на сайті
+ame: Оновлення відсотків на сайті
 
 on:
   push:
@@ -6,30 +6,31 @@ on:
       - master
 
 jobs:
-  update:
+  generate_percents:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
+      - name: Перевірка репа
+        uses: actions/checkout@v2
 
-    - name: Встановлення Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Видалення старих файлів
+        run: |
+          rm -f totallabels.json
+          rm -f translatedlabels.json
 
-    - name: Встановлення залежностей
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Встановлення залежностей
+        run: |
+          sudo apt-get install -y python3
+          pip3 install requests
 
-    - name: Оновлення відсотків на сайті
-      env:
-        GITHUB_TOKEN: ${{ secrets.STARBOUND_SECRET }}
-      run: |
-        cd tools
-        python percents.py
-        git config --global user.email "ihor@noleron.com"
-        git config --global user.name "Ihor Andreew"
-        git add .
-        git commit -m "Оновлення відсотків на сайті"
-        git push origin HEAD:master
+      - name: Генерація відсотків
+        env:
+          GITHUB_TOKEN: ${{ secrets.STARBOUND_SECRET }}
+        run: |
+          cd tools
+          python3 percents.py
+          git config --local user.email "ihor@noleron.com"
+          git config --local user.name "Ihor Andreew"
+          git add totallabels.json
+          git add translatedlabels.json
+          git commit -m "Оновлення відсотків на сайті"
+          git push
