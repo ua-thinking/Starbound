@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Неродючі астероїди",
+      "Порожні астероїди"
+    ],
     "Files": {
       "biomes/space/barrenasteroids.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Barren Asteroids"
+      "Eng": "Barren Asteroids",
+      "Ukr": "Безплідні астероїди"
     }
   }
 ]

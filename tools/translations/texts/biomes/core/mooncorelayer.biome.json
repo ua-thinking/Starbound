@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шар ядра Місяця",
+      "Місячний ядрений шар"
+    ],
     "Files": {
       "biomes/core/mooncorelayer.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Moon Core Layer"
+      "Eng": "Moon Core Layer",
+      "Ukr": "Шар місяця"
     }
   }
 ]

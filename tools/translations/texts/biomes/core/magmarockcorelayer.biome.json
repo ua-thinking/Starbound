@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Магмокам'яне ядро"
+    ],
     "Files": {
       "biomes/core/magmarockcorelayer.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Magmarock Core Layer"
+      "Eng": "Magmarock Core Layer",
+      "Ukr": "Шар магмокаменю"
     }
   }
 ]

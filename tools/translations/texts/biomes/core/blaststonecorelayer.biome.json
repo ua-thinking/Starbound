@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шар з вибухівкового каменю",
+      "Шар зі складової крихкого каменю"
+    ],
     "Files": {
       "biomes/core/blaststonecorelayer.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Blaststone Core Layer"
+      "Eng": "Blaststone Core Layer",
+      "Ukr": "Шар з вибухонебезпечного каменю"
     }
   }
 ]

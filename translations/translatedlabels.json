@@ -16,25 +16,25 @@
     "behaviors": {
       "sequences": {
         "floranmission": {
-          "chieftain.behavior.json": 0
+          "chieftain.behavior.json": 14
         }
       }
     },
     "biomes": {
       "atmosphere": {
-        "atmosphere.biome.json": 0,
-        "void.biome.json": 0
+        "atmosphere.biome.json": 1,
+        "void.biome.json": 1
       },
       "core": {
-        "blaststonecorelayer.biome.json": 0,
-        "gardencorelayer.biome.json": 0,
-        "magmarockcorelayer.biome.json": 0,
-        "mooncorelayer.biome.json": 0,
-        "obisidiancorelayer.biome.json": 0
+        "blaststonecorelayer.biome.json": 1,
+        "gardencorelayer.biome.json": 1,
+        "magmarockcorelayer.biome.json": 1,
+        "mooncorelayer.biome.json": 1,
+        "obisidiancorelayer.biome.json": 1
       },
       "space": {
-        "barrenasteroids.biome.json": 0,
-        "space.biome.json": 0
+        "barrenasteroids.biome.json": 1,
+        "space.biome.json": 1
       },
       "surface": {
         "arcticoceanfloor.biome.json": 0,
@@ -382,7 +382,7 @@
       "eyeguard.config.json": 0,
       "eyepatch.config.json": 0,
       "fenerox.config.json": 0,
-      "flee.config.json": 0,
+      "flee.config.json": 2,
       "frog.config.json": 0,
       "gatherer.config.json": 0,
       "grumble.config.json": 0,
