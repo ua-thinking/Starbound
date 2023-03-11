@@ -53,7 +53,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "потребує нашої підтримки",
+      "захист наших співвітчизників",
+      "дружні нам істоти"
+    ],
     "Files": {
       "cinematics/intro/introstage.cinematic": [
         "/panels/25/text"
@@ -61,7 +65,7 @@
     },
     "Texts": {
       "Eng": "Our task: to protect our fellow beings; to support, house, and educate those that seek our aid, and to foster accord between those that aspire to it.",
-      "Ukr": ""
+      "Ukr": "Наше завдання - захищати наших товаришів; підтримувати, забезпечувати оселею та навчати тих, що шукає нашої допомоги; сприяти гармонії поміж бажаючих її."
     }
   },
   {
