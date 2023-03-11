@@ -1,13 +1,18 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Місія на дні океану",
+      "Морська місія",
+      "Морська експедиція"
+    ],
     "Files": {
       "biomes/surface/oceanmission.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Ocean Mission"
+      "Eng": "Ocean Mission",
+      "Ukr": "Океанська місія"
     }
   }
 ]

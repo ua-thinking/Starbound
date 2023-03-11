@@ -1,13 +1,19 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Спалена земля",
+      "Вуглиста пустеля",
+      "Згарищна земля",
+      ""
+    ],
     "Files": {
       "biomes/surface/scorched.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Scorched Wasteland"
+      "Eng": "Scorched Wasteland",
+      "Ukr": "Випалена пустеля"
     }
   }
 ]
