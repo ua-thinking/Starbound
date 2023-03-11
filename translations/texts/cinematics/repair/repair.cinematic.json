@@ -1,13 +1,19 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ШЗС-ДВИГУНА",
+      "ШНС-ДВИГУНА",
+      "ШС-ДВИГУНА",
+      "РЕМОНТ"
+    ],
     "Files": {
       "cinematics/repair/repair.cinematic": [
         "/panels/1/text"
       ]
     },
     "Texts": {
-      "Eng": "REPAIRING FTL DRIVE..."
+      "Eng": "REPAIRING FTL DRIVE...",
+      "Ukr": "ВІДЛАГОДЖЕННЯ СУПЕРЛЮМІНАЛЬНОГО ДВИГУНА..."
     }
   }
 ]
