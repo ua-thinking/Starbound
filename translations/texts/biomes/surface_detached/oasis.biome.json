@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Оазис",
+      "Оаз"
+    ],
     "Files": {
       "biomes/surface_detached/oasis.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Oasis"
+      "Eng": "Oasis",
+      "Ukr": "Оаза"
     }
   }
 ]
