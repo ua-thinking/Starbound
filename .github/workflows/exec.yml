@@ -2,7 +2,7 @@ name: Run percent.py on commit
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   run-percent:
