@@ -71,10 +71,10 @@
             "charred.biome.json": 1
           },
           "flowers": {
-            "flowers.biome.json": 0
+            "flowers.biome.json": 1
           },
           "rocky": {
-            "rocky.biome.json": 0
+            "rocky.biome.json": 1
           }
         },
         "prism.biome.json": 1,
@@ -84,9 +84,9 @@
         "swamp.biome.json": 1
       },
       "underground": {
-        "barrenunderground.biome.json": 0,
-        "moonunderground.biome.json": 0,
-        "underground0a.biome.json": 0,
+        "barrenunderground.biome.json": 1,
+        "moonunderground.biome.json": 1,
+        "underground0a.biome.json": 1,
         "underground0b.biome.json": 0,
         "underground0c.biome.json": 0,
         "underground0d.biome.json": 0,
