@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssssacred hunt is over. Sssacred bone is yours. Championsss."
+      "Eng": "Ssssacred hunt is over. Sssacred bone is yours. Championsss.",
+      "Ukr": "Святе полювання завершено. Священна кістка належить вам. Вітаємо з перемогою."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "broadcastNotification"
+      "Eng": "broadcastNotification",
+      "Ukr": "broadcastNotification"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "cooldown"
+      "Eng": "cooldown",
+      "Ukr": "cooldown"
     }
   },
   {
@@ -42,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "dynamic"
+      "Eng": "dynamic",
+      "Ukr": "dynamic"
     }
   },
   {
@@ -53,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "entityPosition"
+      "Eng": "entityPosition",
+      "Ukr": "entityPosition"
     }
   },
   {
@@ -64,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "loadUniqueEntity"
+      "Eng": "loadUniqueEntity",
+      "Ukr": "loadUniqueEntity"
     }
   },
   {
@@ -75,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "moveToPosition"
+      "Eng": "moveToPosition",
+      "Ukr": "moveToPosition"
     }
   },
   {
@@ -86,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "offsetPosition"
+      "Eng": "offsetPosition",
+      "Ukr": "offsetPosition"
     }
   },
   {
@@ -97,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "queryEntity"
+      "Eng": "queryEntity",
+      "Ukr": "queryEntity"
     }
   },
   {
@@ -108,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "receivedNotification"
+      "Eng": "receivedNotification",
+      "Ukr": "receivedNotification"
     }
   },
   {
@@ -122,7 +132,8 @@
       ]
     },
     "Texts": {
-      "Eng": "runner"
+      "Eng": "runner",
+      "Ukr": "runner"
     }
   },
   {
@@ -133,7 +144,8 @@
       ]
     },
     "Texts": {
-      "Eng": "say"
+      "Eng": "say",
+      "Ukr": "say"
     }
   },
   {
@@ -145,7 +157,8 @@
       ]
     },
     "Texts": {
-      "Eng": "sequence"
+      "Eng": "sequence",
+      "Ukr": "sequence"
     }
   },
   {
@@ -156,7 +169,8 @@
       ]
     },
     "Texts": {
-      "Eng": "timer"
+      "Eng": "timer",
+      "Ukr": "timer"
     }
   }
 ]
