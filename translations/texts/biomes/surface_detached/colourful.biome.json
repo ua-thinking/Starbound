@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Барвистий",
+      "Яскравий"
+    ],
     "Files": {
       "biomes/surface_detached/colourful.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Colourful"
+      "Eng": "Colourful",
+      "Ukr": "кольоровий"
     }
   }
 ]
