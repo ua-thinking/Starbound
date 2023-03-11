@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Неродючі астероїди",
+      "Порожні астероїди"
+    ],
     "Files": {
       "biomes/space/barrenasteroids.biome": [
         "/friendlyName"
