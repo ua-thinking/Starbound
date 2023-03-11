@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A little better"
+      "Eng": "A little better",
+      "Ukr": "Трохи краще."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Getting peckish"
+      "Eng": "Getting peckish",
+      "Ukr": ""
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Getting pretty hungry"
+      "Eng": "Getting pretty hungry",
+      "Ukr": ""
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Goodbye cruel world"
+      "Eng": "Goodbye cruel world",
+      "Ukr": ""
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can barely stand."
+      "Eng": "I can barely stand.",
+      "Ukr": ""
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can't take it much longer!"
+      "Eng": "I can't take it much longer!",
+      "Ukr": ""
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I need more!"
+      "Eng": "I need more!",
+      "Ukr": ""
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I see a light.."
+      "Eng": "I see a light..",
+      "Ukr": ""
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll die if I don't get some more"
+      "Eng": "I'll die if I don't get some more",
+      "Ukr": ""
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm still hungry"
+      "Eng": "I'm still hungry",
+      "Ukr": ""
     }
   },
   {
@@ -120,7 +130,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mmm, I'm full!"
+      "Eng": "Mmm, I'm full!",
+      "Ukr": ""
     }
   },
   {
@@ -131,7 +142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "More, more! I need more!"
+      "Eng": "More, more! I need more!",
+      "Ukr": ""
     }
   },
   {
@@ -142,7 +154,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Must find more food!"
+      "Eng": "Must find more food!",
+      "Ukr": ""
     }
   },
   {
@@ -153,7 +166,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sooooo Hungry..."
+      "Eng": "Sooooo Hungry...",
+      "Ukr": ""
     }
   }
 ]
