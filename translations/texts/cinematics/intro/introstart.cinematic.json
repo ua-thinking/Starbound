@@ -1,24 +1,32 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прокидайся. Ти проспав."
+    ],
     "Files": {
       "cinematics/intro/introstart.cinematic": [
         "/panels/4/text"
       ]
     },
     "Texts": {
-      "Eng": "Wake up. You have overslept."
+      "Eng": "Wake up. You have overslept.",
+      "Ukr": "Вставай, ти проспав."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Прокидайся...",
+      "Прокинься...",
+      "Пробудися..."
+    ],
     "Files": {
       "cinematics/intro/introstart.cinematic": [
         "/panels/3/text"
       ]
     },
     "Texts": {
-      "Eng": "Wake up..."
+      "Eng": "Wake up...",
+      "Ukr": "Вставай..."
     }
   }
 ]
