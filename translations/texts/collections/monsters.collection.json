@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Тваринки",
+      "Домашні тварини (ФУРГОН)"
+    ],
     "Files": {
       "collections/monsters.collection": [
         "/title"
       ]
     },
     "Texts": {
-      "Eng": "Pets"
+      "Eng": "Pets",
+      "Ukr": "Домашні тваринки"
     }
   }
 ]
