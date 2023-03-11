@@ -56,16 +56,16 @@
         "volcanicterraform.biome.json": 1
       },
       "surface_detached": {
-        "alpine.biome.json": 0,
-        "bioluminescence.biome.json": 0,
-        "bones.biome.json": 0,
-        "colourful.biome.json": 0,
-        "eyepatch.biome.json": 0,
-        "flesh.biome.json": 0,
-        "giantflowers.biome.json": 0,
+        "alpine.biome.json": 1,
+        "bioluminescence.biome.json": 1,
+        "bones.biome.json": 1,
+        "colourful.biome.json": 1,
+        "eyepatch.biome.json": 1,
+        "flesh.biome.json": 1,
+        "giantflowers.biome.json": 1,
         "hive.biome.json": 0,
         "mushroompatch.biome.json": 0,
-        "oasis.biome.json": 0,
+        "oasis.biome.json": 1,
         "old": {
           "charred": {
             "charred.biome.json": 0

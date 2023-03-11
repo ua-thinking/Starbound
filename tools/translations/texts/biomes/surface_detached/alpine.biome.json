@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "альпійський",
+      "гірський"
+    ],
     "Files": {
       "biomes/surface_detached/alpine.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Alpine"
+      "Eng": "Alpine",
+      "Ukr": "Альпи"
     }
   }
 ]
