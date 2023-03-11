@@ -1,33 +1,31 @@
-name: Run percent.py on commit
+name: Update Percent Values
 
 on:
   push:
     branches: [ master ]
 
 jobs:
-  run-percent:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Install Python
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.11
       uses: actions/setup-python@v2
       with:
-        python-version: '3.11'
-
+        python-version: 3.x
     - name: Install dependencies
       run: |
-        pip install --upgrade pip
+        python -m pip install --upgrade pip
         pip install -r requirements.txt
-
-    - name: Run percent.py and commit changes
+    - name: Run percent.py
       run: |
         cd tools
-        python percents.py
-        git config --global user.email "ihor@noleron.com"
-        git config --global user.name "Ihor Andreew"
-        git add .
-        git commit -m "Update percent values"
-         git push https://$GITHUB_ACTOR:$MY_GITHUB_TOKEN@github.com/ua-thinking/Starbound.git
+        python percent.py
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "Ihor Andreew"
+        author_email: "ihor@noleron.com"
+        message: "Оновлення відсотків на сайті"
+        add: "."
+        token: ${{ secrets.MY_GITHUB_TOKEN }}
