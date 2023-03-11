@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Esther has concluded that this Mansion base is the location of the Apex Artifact."
+      "Eng": "Esther has concluded that this Mansion base is the location of the Apex Artifact.",
+      "Ukr": "Естер дійшла висновку, що саме в цьому особняку знаходиться артефакт Апекс."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Revisit the Miniknog Stronghold"
+      "Eng": "Revisit the Miniknog Stronghold",
+      "Ukr": "Перевірте знову фортецю Мінікног"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Miniknog Stronghold"
+      "Eng": "The Miniknog Stronghold",
+      "Ukr": "Фортеця Мінікног"
     }
   }
 ]
