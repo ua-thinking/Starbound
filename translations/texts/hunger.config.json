@@ -16,7 +16,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Трохи голодний",
+      "Ледь зголоднів"
+    ],
     "Files": {
       "hunger.config": [
         "/75/down/0"
@@ -24,7 +27,7 @@
     },
     "Texts": {
       "Eng": "Getting peckish",
-      "Ukr": ""
+      "Ukr": "Ледь голодний"
     }
   },
   {
@@ -48,7 +51,7 @@
     },
     "Texts": {
       "Eng": "Goodbye cruel world",
-      "Ukr": ""
+      "Ukr": "Бувай, жорстокий світе "
     }
   },
   {
@@ -84,11 +87,13 @@
     },
     "Texts": {
       "Eng": "I need more!",
-      "Ukr": ""
+      "Ukr": "Мені потрібно більше! "
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я бачу світло..."
+    ],
     "Files": {
       "hunger.config": [
         "/5/down/0"
@@ -96,11 +101,15 @@
     },
     "Texts": {
       "Eng": "I see a light..",
-      "Ukr": ""
+      "Ukr": "Бачу світло..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Помру, якщо не отримаю трішки більше",
+      "Трохи",
+      "Вмру, якщо не отримаю ще трішечки"
+    ],
     "Files": {
       "hunger.config": [
         "/5/up/0"
@@ -108,11 +117,13 @@
     },
     "Texts": {
       "Eng": "I'll die if I don't get some more",
-      "Ukr": ""
+      "Ukr": "Я помру, якщо не отримаю трішки більше"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я все ще голодний"
+    ],
     "Files": {
       "hunger.config": [
         "/50/up/0"
@@ -120,7 +131,7 @@
     },
     "Texts": {
       "Eng": "I'm still hungry",
-      "Ukr": ""
+      "Ukr": "Все ще голодний"
     }
   },
   {
@@ -139,7 +150,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Більше, більше! Я хочу більше! "
+    ],
     "Files": {
       "hunger.config": [
         "/10/up/0"
@@ -147,7 +160,7 @@
     },
     "Texts": {
       "Eng": "More, more! I need more!",
-      "Ukr": ""
+      "Ukr": "Більше, більше! Мені потрібно більше!"
     }
   },
   {
