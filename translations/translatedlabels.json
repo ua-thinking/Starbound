@@ -421,7 +421,7 @@
       "shared_lightbulb.json": 0
     },
     "help.config.json": 1,
-    "hunger.config.json": 1,
+    "hunger.config.json": 0,
     "interface": {
       "ai": {
         "ai.config.json": 0

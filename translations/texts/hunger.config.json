@@ -1,6 +1,10 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Трохи ліпше",
+      "Ледь _____",
+      "Трішки ______"
+    ],
     "Files": {
       "hunger.config": [
         "/75/up/0"
