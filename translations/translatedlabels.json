@@ -141,11 +141,11 @@
       }
     },
     "blueprint.config.json": 2,
-    "celestial.config.json": 0,
+    "celestial.config.json": 25,
     "cinematics": {
       "intro": {
         "introstage.cinematic.json": 4,
-        "introstart.cinematic.json": 0
+        "introstart.cinematic.json": 2
       },
       "mods": {
         "modloading.cinematic.json": 0
