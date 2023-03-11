@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Аванпост"
+    ],
     "Files": {
       "biomes/surface/outpost.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Outpost"
+      "Eng": "Outpost",
+      "Ukr": "Форпост"
     }
   }
 ]
