@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Boomerang"
+      "Eng": "Boomerang",
+      "Ukr": "Бумеранг"
     }
   },
   {
@@ -24,11 +25,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Chakram"
+      "Eng": "Chakram",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Вудочка"
+    ],
     "Files": {
       "items/active/fishingrod/fishingrod.activeitem": [
         "/shortdescription"
@@ -38,7 +42,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fishing Rod"
+      "Eng": "Fishing Rod",
+      "Ukr": "Вудка"
     }
   },
   {
@@ -61,7 +66,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flashlight"
+      "Eng": "Flashlight",
+      "Ukr": "Ліхтарик"
     }
   },
   {
@@ -75,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Frogg Legs"
+      "Eng": "Frogg Legs",
+      "Ukr": ""
     }
   },
   {
@@ -89,7 +96,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Grenade Launcher"
+      "Eng": "Grenade Launcher",
+      "Ukr": "Гранатомет"
     }
   }
 ]
