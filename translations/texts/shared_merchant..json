@@ -1,6 +1,11 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Щось подобається?",
+      "Щось припало до ока?",
+      "Найшов щось до вподоби?",
+      "Закмітив щось цікаве?"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/merchantStart/default/default/1"
@@ -10,7 +15,8 @@
       ]
     },
     "Texts": {
-      "Eng": "See anything you like?"
+      "Eng": "See anything you like?",
+      "Ukr": "Закмітив щось любе?"
     }
   }
 ]
