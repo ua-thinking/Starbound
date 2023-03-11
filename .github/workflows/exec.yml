@@ -30,4 +30,4 @@ jobs:
         git config --global user.name "Ihor Andreew"
         git add .
         git commit -m "Update percent values"
-        git push https://${{ secrets.MY_GITHUB_TOKEN }}@github.com/ua-thinking/Starbound.git HEAD:${{ github.ref }}
+         git push https://$GITHUB_ACTOR:$MY_GITHUB_TOKEN@github.com/ua-thinking/Starbound.git
