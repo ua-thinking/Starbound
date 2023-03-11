@@ -2,7 +2,8 @@
   {
     "DeniedAlternatives": [
       "Барвистий",
-      "Яскравий"
+      "Яскравий",
+      "Строкатий"
     ],
     "Files": {
       "biomes/surface_detached/colourful.biome": [
