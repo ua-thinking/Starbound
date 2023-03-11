@@ -11,7 +11,7 @@ from codecs import open as copen
 
 def uopen(path, mode):
   return copen(path, mode, "utf-8")
-translations_dir = "./translations"
+translations_dir = "../translations"
 
 checker = regex('([^\n\s\t\r]+|\r?[\n\s\t])')
 is_unprintable = regex('\^.+;')
