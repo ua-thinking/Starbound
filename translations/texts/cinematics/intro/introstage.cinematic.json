@@ -7,18 +7,26 @@
       ]
     },
     "Texts": {
-      "Eng": "For over 500 years we have stood proud here on Earth, drawing together races of all kinds in the name of peace."
+      "Eng": "For over 500 years we have stood proud here on Earth, drawing together races of all kinds in the name of peace.",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Хм? Що це було?",
+      "Що це було?",
+      "Гм-м? Що це було?",
+      "М-м? Що це було?",
+      "Хм-м? Що це було?"
+    ],
     "Files": {
       "cinematics/intro/introstage.cinematic": [
         "/panels/28/text"
       ]
     },
     "Texts": {
-      "Eng": "Huh? What was that?"
+      "Eng": "Huh? What was that?",
+      "Ukr": "Гм? Що це було?"
     }
   },
   {
@@ -29,7 +37,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My fellow Protectors... Today we come together to witness the Protectorate grow."
+      "Eng": "My fellow Protectors... Today we come together to witness the Protectorate grow.",
+      "Ukr": ""
     }
   },
   {
@@ -40,7 +49,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Our task: to protect our fellow beings; to support, house, and educate those that seek our aid, and to foster accord between those that aspire to it."
+      "Eng": "Our task: to protect our fellow beings; to support, house, and educate those that seek our aid, and to foster accord between those that aspire to it.",
+      "Ukr": ""
     }
   },
   {
@@ -51,7 +61,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The ^orange;Matter Manipulator^white;."
+      "Eng": "The ^orange;Matter Manipulator^white;.",
+      "Ukr": ""
     }
   },
   {
@@ -62,7 +73,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Today, in the name of peace, we welcome our newest compatriots, and present them each with our greatest tool..."
+      "Eng": "Today, in the name of peace, we welcome our newest compatriots, and present them each with our greatest tool...",
+      "Ukr": ""
     }
   },
   {
@@ -73,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wha- What the..."
+      "Eng": "Wha- What the...",
+      "Ukr": ""
     }
   },
   {
@@ -84,7 +97,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You, Graduate! Take the Manipulator and run! Get to safety!"
+      "Eng": "You, Graduate! Take the Manipulator and run! Get to safety!",
+      "Ukr": ""
     }
   }
 ]
