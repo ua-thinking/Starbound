@@ -1,0 +1,18 @@
+name: Execute script on commit
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install python3-pip -y
+        pip3 install -r requirements.txt
+    - name: Execute script
+      run: python3 tools/percent.py && git commit -am "Execute percent.py" && git push origin main
