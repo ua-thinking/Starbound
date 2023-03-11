@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Afraid. Get away from me! Help!"
+      "Eng": "Afraid. Get away from me! Help!",
+      "Ukr": ""
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ah! Help!"
+      "Eng": "Ah! Help!",
+      "Ukr": ""
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ah! Stop it!"
+      "Eng": "Ah! Stop it!",
+      "Ukr": ""
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astounded. Why is this happening!?"
+      "Eng": "Astounded. Why is this happening!?",
+      "Ukr": ""
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "By my feathers, I'm under attack!"
+      "Eng": "By my feathers, I'm under attack!",
+      "Ukr": ""
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran go get spear now."
+      "Eng": "Floran go get spear now.",
+      "Ukr": ""
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran has no ssspear! Floran can't stab!"
+      "Eng": "Floran has no ssspear! Floran can't stab!",
+      "Ukr": ""
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran lives to hunt another day."
+      "Eng": "Floran lives to hunt another day.",
+      "Ukr": ""
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran livesss!"
+      "Eng": "Floran livesss!",
+      "Ukr": ""
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran needs sspear!"
+      "Eng": "Floran needs sspear!",
+      "Ukr": ""
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssafe!"
+      "Eng": "Floran sssafe!",
+      "Ukr": ""
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran will tell greenfinger on you!"
+      "Eng": "Floran will tell greenfinger on you!",
+      "Ukr": ""
     }
   },
   {
@@ -139,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Frightened. Don't hurt me!"
+      "Eng": "Frightened. Don't hurt me!",
+      "Ukr": ""
     }
   },
   {
@@ -150,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am under attack!"
+      "Eng": "I am under attack!",
+      "Ukr": ""
     }
   },
   {
@@ -161,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I made it!"
+      "Eng": "I made it!",
+      "Ukr": ""
     }
   },
   {
@@ -172,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I need help!"
+      "Eng": "I need help!",
+      "Ukr": ""
     }
   },
   {
@@ -183,18 +199,26 @@
       ]
     },
     "Texts": {
-      "Eng": "I need help! I can't defend myself!"
+      "Eng": "I need help! I can't defend myself!",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я в порядку!",
+      "Зі мною все добре!",
+      "Я здоровий! ",
+      "Все добре!",
+      "Все нормально!"
+    ],
     "Files": {
       "dialog/flee.config": [
         "/safe/avian/default/4"
       ]
     },
     "Texts": {
-      "Eng": "I'm alright!"
+      "Eng": "I'm alright!",
+      "Ukr": "Я в нормі!"
     }
   },
   {
@@ -205,7 +229,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm being chased! Somebody, help me!"
+      "Eng": "I'm being chased! Somebody, help me!",
+      "Ukr": ""
     }
   },
   {
@@ -216,7 +241,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm unarmed!"
+      "Eng": "I'm unarmed!",
+      "Ukr": ""
     }
   },
   {
@@ -227,7 +253,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm unarmed! Help!"
+      "Eng": "I'm unarmed! Help!",
+      "Ukr": ""
     }
   },
   {
@@ -238,7 +265,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Is it over?"
+      "Eng": "Is it over?",
+      "Ukr": ""
     }
   },
   {
@@ -249,7 +277,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Is it safe now?"
+      "Eng": "Is it safe now?",
+      "Ukr": ""
     }
   },
   {
@@ -260,7 +289,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Joyful. I'm alive!"
+      "Eng": "Joyful. I'm alive!",
+      "Ukr": ""
     }
   },
   {
@@ -271,7 +301,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oh no! Help me!"
+      "Eng": "Oh no! Help me!",
+      "Ukr": ""
     }
   },
   {
