@@ -18,4 +18,4 @@ jobs:
         git config --global user.name "Ihor Andreew"
         git add .
         git commit -m "Оновлення відсотків на сайті"
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/ua-thinking/Starbound.git HEAD:main
+        git push https://${{ secrets.NOLERON }}@github.com/ua-thinking/Starbound.git HEAD:main
