@@ -7,8 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Admin commands are: %s",
-      "Por": "Адмінські команди: %s"
+      "Eng": "Admin commands are: %s"
     }
   },
   {
@@ -19,8 +18,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Basic commands are: %s",
-      "Por": ""
+      "Eng": "Basic commands are: %s"
     }
   },
   {
@@ -31,8 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Debug commands are: %s",
-      "Por": ""
+      "Eng": "Debug commands are: %s"
     }
   },
   {
@@ -43,8 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands.",
-      "Por": ""
+      "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands."
     }
   },
   {
@@ -55,8 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
-      "Por": ""
+      "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately."
     }
   },
   {
@@ -67,8 +62,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /boxes. Toggle the display of collision debugging polygons if debug mode is enabled.",
-      "Por": ""
+      "Eng": "Usage /boxes. Toggle the display of collision debugging polygons if debug mode is enabled."
     }
   },
   {
@@ -79,8 +73,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /cinema cinematicPath [timestamp]. Plays the specified cinematic for testing, optionally starting at the specified timestamp.",
-      "Por": ""
+      "Eng": "Usage /cinema cinematicPath [timestamp]. Plays the specified cinematic for testing, optionally starting at the specified timestamp."
     }
   },
   {
@@ -91,8 +84,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though.",
-      "Por": ""
+      "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though."
     }
   },
   {
@@ -103,8 +95,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again.",
-      "Por": ""
+      "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again."
     }
   },
   {
@@ -115,8 +106,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again.",
-      "Por": ""
+      "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again."
     }
   },
   {
@@ -127,8 +117,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearscannedobjects. Resets the player's record of previously scanned objects. Will not reset quest progress for object scanning quests.",
-      "Por": ""
+      "Eng": "Usage /clearscannedobjects. Resets the player's record of previously scanned objects. Will not reset quest progress for object scanning quests."
     }
   },
   {
@@ -139,8 +128,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /clearstagehand. Despawns any stagehands with positions close to the current cursor position.",
-      "Por": ""
+      "Eng": "Usage /clearstagehand. Despawns any stagehands with positions close to the current cursor position."
     }
   },
   {
@@ -151,8 +139,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /completequest questId. Force completion of a currently active quest with the given quest ID (usually the quest template ID).",
-      "Por": ""
+      "Eng": "Usage /completequest questId. Force completion of a currently active quest with the given quest ID (usually the quest template ID)."
     }
   },
   {
@@ -163,8 +150,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /deaths. Displays the total death count of the current character.",
-      "Por": ""
+      "Eng": "Usage /deaths. Displays the total death count of the current character."
     }
   },
   {
@@ -175,8 +161,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /debug. Enable debugging mode.",
-      "Por": ""
+      "Eng": "Usage /debug. Enable debugging mode."
     }
   },
   {
@@ -187,8 +172,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /disablespawning. Disable automatic monster spawning on the current world.",
-      "Por": ""
+      "Eng": "Usage /disablespawning. Disable automatic monster spawning on the current world."
     }
   },
   {
@@ -199,8 +183,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /enablespawning. Enable automatic monster spawning on the current world.",
-      "Por": ""
+      "Eng": "Usage /enablespawning. Enable automatic monster spawning on the current world."
     }
   },
   {
@@ -211,8 +194,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /enabletech techName. Unlocks the specified tech for use.",
-      "Por": ""
+      "Eng": "Usage /enabletech techName. Unlocks the specified tech for use."
     }
   },
   {
@@ -223,8 +205,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally.",
-      "Por": ""
+      "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally."
     }
   },
   {
@@ -235,8 +216,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /eval <lua>. Evaluates given lua in script processor context. Only usable locally.",
-      "Por": ""
+      "Eng": "Usage /eval <lua>. Evaluates given lua in script processor context. Only usable locally."
     }
   },
   {
@@ -247,8 +227,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID).",
-      "Por": ""
+      "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID)."
     }
   },
   {
@@ -259,8 +238,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /fixedcamera. Toggle locking the camera's position; camera will not scroll. Sectors may not load or behave correctly when the camera is distant from the player's position.",
-      "Por": ""
+      "Eng": "Usage /fixedcamera. Toggle locking the camera's position; camera will not scroll. Sectors may not load or behave correctly when the camera is distant from the player's position."
     }
   },
   {
@@ -271,8 +249,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /fullbright. Disable the lighting engine and show everything.",
-      "Por": ""
+      "Eng": "Usage /fullbright. Disable the lighting engine and show everything."
     }
   },
   {
@@ -283,8 +260,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /giveessentialitem item slotName. Sets the specified essential slot to the specified item, overwriting the existing contents. Valid slot names are: beamaxe, wiretool, painttool, inspectiontool.",
-      "Por": ""
+      "Eng": "Usage /giveessentialitem item slotName. Sets the specified essential slot to the specified item, overwriting the existing contents. Valid slot names are: beamaxe, wiretool, painttool, inspectiontool."
     }
   },
   {
@@ -295,8 +271,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Usage /gravity. Display the gravity at the player's position.",
-      "Por": ""
+      "Eng": "Usage /gravity. Display the gravity at the player's position."
     }
   },
   {

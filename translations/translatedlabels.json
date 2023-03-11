@@ -420,7 +420,7 @@
     "generic": {
       "shared_lightbulb.json": 0
     },
-    "help.config.json": 1,
+    "help.config.json": 0,
     "hunger.config.json": 0,
     "interface": {
       "ai": {
