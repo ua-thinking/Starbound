@@ -1,13 +1,17 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Кулінарія",
+      "Готування"
+    ],
     "Files": {
       "collections/cooking.collection": [
         "/title"
       ]
     },
     "Texts": {
-      "Eng": "Cooking"
+      "Eng": "Cooking",
+      "Ukr": "Кухарство"
     }
   }
 ]
