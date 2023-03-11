@@ -2,7 +2,9 @@
   {
     "DeniedAlternatives": [
       "Гігантські квіти",
-      "Величезні квіти"
+      "Величезні квіти",
+      "Велеквіти",
+      "Велецвіти (УВАГА - діалектизм)"
     ],
     "Files": {
       "biomes/surface_detached/giantflowers.biome": [

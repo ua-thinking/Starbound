@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Драговина"
+    ],
     "Files": {
       "biomes/surface_detached/swamp.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "swamp"
+      "Eng": "swamp",
+      "Ukr": "Болото"
     }
   }
 ]

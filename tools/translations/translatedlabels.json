@@ -63,7 +63,7 @@
         "eyepatch.biome.json": 1,
         "flesh.biome.json": 1,
         "giantflowers.biome.json": 1,
-        "hive.biome.json": 0,
+        "hive.biome.json": 1,
         "mushroompatch.biome.json": 0,
         "oasis.biome.json": 1,
         "old": {
@@ -81,7 +81,7 @@
         "rust.biome.json": 0,
         "spring.biome.json": 0,
         "steamspring.biome.json": 0,
-        "swamp.biome.json": 0
+        "swamp.biome.json": 1
       },
       "underground": {
         "barrenunderground.biome.json": 0,
@@ -144,7 +144,7 @@
     "celestial.config.json": 0,
     "cinematics": {
       "intro": {
-        "introstage.cinematic.json": 0,
+        "introstage.cinematic.json": 4,
         "introstart.cinematic.json": 0
       },
       "mods": {
