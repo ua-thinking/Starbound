@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "<item>",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Розблоковує схему створення <item>.",
+    "path": "/description"
+  }
+]

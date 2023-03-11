@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Базові ігрові ресурси",
+    "path": "/friendlyName"
+  }
+]

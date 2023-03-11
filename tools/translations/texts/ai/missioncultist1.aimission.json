@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Asra Nox has been located on her warship, the Dantalion."
+      "Eng": "Asra Nox has been located on her warship, the Dantalion.",
+      "Ukr": "Асра Нокс була знайдена на своєму військовому кораблі \"Данталіон\"."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Revisit The Dantalion"
+      "Eng": "Revisit The Dantalion",
+      "Ukr": "Повторно відвідати корабль 'Данталіон'"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Dantalion"
+      "Eng": "The Dantalion",
+      "Ukr": "Данталіон"
     }
   }
 ]

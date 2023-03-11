@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Revisit Weapon Testing Site"
+      "Eng": "Revisit Weapon Testing Site",
+      "Ukr": "Повернутися на майданчик для тестування зброї"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The penguin scientist Dr. Akaggy requires your help testing a new weapon."
+      "Eng": "The penguin scientist Dr. Akaggy requires your help testing a new weapon.",
+      "Ukr": "Пінгвін-вчений доктор Акаггі потребує вашої допомоги в тестуванні нової зброї"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Weapon Testing Site"
+      "Eng": "Weapon Testing Site",
+      "Ukr": "Майданчик для тестування зброї"
     }
   }
 ]

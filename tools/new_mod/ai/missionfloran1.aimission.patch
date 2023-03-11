@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Дослідження Естер вказує на те, що це ймовірне місце знаходження Флоранського артефакту.",
+    "path": "/speciesText/default/selectSpeech/text"
+  },
+  {
+    "op": "replace",
+    "value": "Повторно відвідати Ритуальні полювальні печери",
+    "path": "/speciesText/default/repeatButtonText"
+  }
+]

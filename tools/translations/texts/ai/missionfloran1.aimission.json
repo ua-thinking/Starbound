@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Esther's research concludes that this is the probable location of the Floran Artifact."
+      "Eng": "Esther's research concludes that this is the probable location of the Floran Artifact.",
+      "Ukr": "Дослідження Естер вказує на те, що це ймовірне місце знаходження Флоранського артефакту."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Revisit The Ceremonial Hunting Caverns"
+      "Eng": "Revisit The Ceremonial Hunting Caverns",
+      "Ukr": "Повторно відвідати Ритуальні полювальні печери"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Ceremonial Hunting Caverns"
+      "Eng": "The Ceremonial Hunting Caverns",
+      "Ukr": ""
     }
   }
 ]

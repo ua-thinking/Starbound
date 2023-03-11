@@ -2,16 +2,16 @@
   "texts": {
     "_metadata.json": 1,
     "ai": {
-      "ai.config.json": 0,
-      "missionapex1.aimission.json": 0,
-      "missionavian1.aimission.json": 0,
-      "missioncultist1.aimission.json": 0,
-      "missionfloran1.aimission.json": 0,
-      "missionglitch1.aimission.json": 0,
-      "missionhuman1.aimission.json": 0,
-      "missionhylotl1.aimission.json": 0,
-      "missionpenguin1.aimission.json": 0,
-      "missionpenguin2.aimission.json": 0
+      "ai.config.json": 6,
+      "missionapex1.aimission.json": 3,
+      "missionavian1.aimission.json": 3,
+      "missioncultist1.aimission.json": 3,
+      "missionfloran1.aimission.json": 2,
+      "missionglitch1.aimission.json": 3,
+      "missionhuman1.aimission.json": 3,
+      "missionhylotl1.aimission.json": 3,
+      "missionpenguin1.aimission.json": 2,
+      "missionpenguin2.aimission.json": 3
     },
     "behaviors": {
       "sequences": {
@@ -366,7 +366,7 @@
       "shield.damage.json": 0
     },
     "dialog": {
-      "airship.config.json": 0,
+      "airship.config.json": 1,
       "alpaca.config.json": 0,
       "arrivedhome.config.json": 0,
       "bounty.config.json": 0,
@@ -374,7 +374,7 @@
       "clues.config.json": 0,
       "colourful.config.json": 0,
       "combat.config.json": 0,
-      "converse.config.json": 0,
+      "converse.config.json": 1,
       "crewmember.config.json": 0,
       "cultist.config.json": 0,
       "deadbeat.config.json": 0,
@@ -382,7 +382,7 @@
       "eyeguard.config.json": 0,
       "eyepatch.config.json": 0,
       "fenerox.config.json": 0,
-      "flee.config.json": 0,
+      "flee.config.json": 1,
       "frog.config.json": 0,
       "gatherer.config.json": 0,
       "grumble.config.json": 0,

@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "> Zzz... Zzz... Zzz..."
+      "Eng": "> Zzz... Zzz... Zzz...",
+      "Ukr": "> Ззз... Дззз. Дззз."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#6f6f6f;$ crew\n^cyan;> You are the only registered crew member of this ship.\n> Recruiting additional crew members may allow for increased operational efficiency."
+      "Eng": "^#6f6f6f;$ crew\n^cyan;> You are the only registered crew member of this ship.\n> Recruiting additional crew members may allow for increased operational efficiency.",
+      "Ukr": "^#6f6f6f;$ екіпаж\n^cyan;> Ви єдиний зареєстрований член екіпажу цього корабля.\n> Набір додаткових членів екіпажу може підвищити ефективність роботи."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#6f6f6f;$ missions\n^cyan;> No mission co-ordinates currently available."
+      "Eng": "^#6f6f6f;$ missions\n^cyan;> No mission co-ordinates currently available.",
+      "Ukr": "^#6f6f6f;$ місії\n^cyan;> Координати місії наразі недоступні."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are currently offline.\n> Ship teleportation system functioning correctly.\n> ^green;Currently only the planet below is accessible."
+      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are currently offline.\n> Ship teleportation system functioning correctly.\n> ^green;Currently only the planet below is accessible.",
+      "Ukr": "^#6f6f6f;$ стан\n^cyan;> Двигуни корабля наразі вимкнено.\n> Система телепортації корабля функціонує коректно.\n> ^green;Зараз доступна лише планета нижче."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are online.\n> Ship teleportation system functioning correctly.\n> ^green;Planets within this star system are accessible."
+      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are online.\n> Ship teleportation system functioning correctly.\n> ^green;Planets within this star system are accessible.",
+      "Ukr": "^#6f6f6f;$ стан\n^cyan;> Ракетні двигуни корабля працюють.\n> Система телепортації корабля працює належним чином.\n> ^green;Планети у цій зірковій системі доступні."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#6f6f6f;$ status -f\n^cyan;> Ship thrusters are online.\n> FTL drive is online.\n> Ship teleportation system functioning correctly.\n> ^green;The entire universe is accessible."
+      "Eng": "^#6f6f6f;$ status -f\n^cyan;> Ship thrusters are online.\n> FTL drive is online.\n> Ship teleportation system functioning correctly.\n> ^green;The entire universe is accessible.",
+      "Ukr": "^#6f6f6f;$ стан -f\n^cyan;> Ракетні двигуни корабля працюють.\n> Двигун FTL працює.\n> Система телепортації корабля працює належним чином.\n> ^green;Доступний весь Всесвіт."
     }
   }
 ]

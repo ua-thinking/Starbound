@@ -7,18 +7,27 @@
       ]
     },
     "Texts": {
-      "Eng": "A Floran... I am truly a-quiver."
+      "Eng": "A Floran... I am truly a-quiver.",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ГІГАНТСЬКА РИБА-БАЛАКУН!",
+      "ВЕЛИЧЕЗНА РИБА-ГОВОРУН!",
+      "ГІГАНТСЬКА РОЗМОВЛЯЮЧА РИБА! ",
+      "ВЕЛИЧЕЗНА РОЗМОВЛЯЮЧА РИБА!",
+      "ГІГАНТСЬКА БАЛАКАЮЧА РИБА!",
+      "ВЕЛИЧЕЗНА БАЛАКАЮЧА РИБА!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/hylotl/26"
       ]
     },
     "Texts": {
-      "Eng": "A GIANT TALKING FISH!"
+      "Eng": "A GIANT TALKING FISH!",
+      "Ukr": "ВЕЛИЧЕЗНА РИБА-БАЛАКУН! "
     }
   },
   {
@@ -29,7 +38,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A Hylotl, eh?"
+      "Eng": "A Hylotl, eh?",
+      "Ukr": ""
     }
   },
   {
@@ -40,7 +50,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A being who shines like a star! Or perhaps like a full moon... Which is the more fitting allusion?"
+      "Eng": "A being who shines like a star! Or perhaps like a full moon... Which is the more fitting allusion?",
+      "Ukr": ""
     }
   },
   {
@@ -51,7 +62,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A book has two joys: first the pleasure of reading it, then the reflection upon its teachings."
+      "Eng": "A book has two joys: first the pleasure of reading it, then the reflection upon its teachings.",
+      "Ukr": ""
     }
   },
   {
@@ -62,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A friend!"
+      "Eng": "A friend!",
+      "Ukr": ""
     }
   },
   {
@@ -73,7 +86,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A greenfinger could figure out how you work inside."
+      "Eng": "A greenfinger could figure out how you work inside.",
+      "Ukr": ""
     }
   },
   {
@@ -84,7 +98,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A human from Earth. It is good to meet you."
+      "Eng": "A human from Earth. It is good to meet you.",
+      "Ukr": ""
     }
   },
   {
@@ -95,7 +110,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A life like yours would be wasted on the uninquisitive."
+      "Eng": "A life like yours would be wasted on the uninquisitive.",
+      "Ukr": ""
     }
   },
   {
@@ -106,7 +122,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A long shadow stretches over us."
+      "Eng": "A long shadow stretches over us.",
+      "Ukr": ""
     }
   },
   {
@@ -117,7 +134,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A lot of Avians like seeds, but I prefer berries."
+      "Eng": "A lot of Avians like seeds, but I prefer berries.",
+      "Ukr": ""
     }
   },
   {
@@ -128,7 +146,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A monkey! Oh wait, monkeys have tails. An ape!"
+      "Eng": "A monkey! Oh wait, monkeys have tails. An ape!",
+      "Ukr": ""
     }
   },
   {
@@ -139,7 +158,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A non-violent Floran. Can it be true? I haven't heard of that before."
+      "Eng": "A non-violent Floran. Can it be true? I haven't heard of that before.",
+      "Ukr": ""
     }
   },
   {
@@ -150,7 +170,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A polished Glitch is a sight to behold; shining like a silver moon."
+      "Eng": "A polished Glitch is a sight to behold; shining like a silver moon.",
+      "Ukr": ""
     }
   },
   {
@@ -161,7 +182,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Aah!!! Oh, sorry - I have an irrational fear of chimpanzees and you're face... Sorry..."
+      "Eng": "Aah!!! Oh, sorry - I have an irrational fear of chimpanzees and you're face... Sorry...",
+      "Ukr": ""
     }
   },
   {
@@ -172,7 +194,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ace meeting you."
+      "Eng": "Ace meeting you.",
+      "Ukr": ""
     }
   },
   {
@@ -183,7 +206,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Achoo!"
+      "Eng": "Achoo!",
+      "Ukr": ""
     }
   },
   {
@@ -194,7 +218,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Admire Floran foliage, monkey man!"
+      "Eng": "Admire Floran foliage, monkey man!",
+      "Ukr": ""
     }
   },
   {
@@ -205,7 +230,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Affable. Hello there."
+      "Eng": "Affable. Hello there.",
+      "Ukr": ""
     }
   },
   {
@@ -216,7 +242,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Affable. How do you do?"
+      "Eng": "Affable. How do you do?",
+      "Ukr": ""
     }
   },
   {
@@ -227,7 +254,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Aggravated. I can't find my hacksaw."
+      "Eng": "Aggravated. I can't find my hacksaw.",
+      "Ukr": ""
     }
   },
   {
@@ -238,7 +266,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Agreeable. Welcome stranger."
+      "Eng": "Agreeable. Welcome stranger.",
+      "Ukr": ""
     }
   },
   {
@@ -249,7 +278,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ah yes, the majority of your kind worships Kluex, is he a benevolent deity?"
+      "Eng": "Ah yes, the majority of your kind worships Kluex, is he a benevolent deity?",
+      "Ukr": ""
     }
   },
   {
@@ -260,7 +290,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ah! ...Oh sorry, you surprised me."
+      "Eng": "Ah! ...Oh sorry, you surprised me.",
+      "Ukr": ""
     }
   },
   {
@@ -271,7 +302,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ain't met many folk with a face like yours, but at least I won't forget you easy!"
+      "Eng": "Ain't met many folk with a face like yours, but at least I won't forget you easy!",
+      "Ukr": ""
     }
   },
   {

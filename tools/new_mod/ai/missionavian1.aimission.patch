@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Повторно відвідати Великий храм Суверена",
+    "path": "/speciesText/default/repeatButtonText"
+  },
+  {
+    "op": "replace",
+    "value": "Великий храм Суверена",
+    "path": "/speciesText/default/buttonText"
+  },
+  {
+    "op": "replace",
+    "value": "Цей майже покинутий храм є місцем, де Естер вважає, що знаходиться Авіанський артефакт.",
+    "path": "/speciesText/default/selectSpeech/text"
+  }
+]

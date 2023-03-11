@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It seems that the Glitch Artifact belongs to the owner of a small stone Keep on a lonely planet."
+      "Eng": "It seems that the Glitch Artifact belongs to the owner of a small stone Keep on a lonely planet.",
+      "Ukr": "Здається, що Гліч-артефакт належить власнику невеликої кам'яної фортеці на самотній планеті."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Revisit The Baron's Keep"
+      "Eng": "Revisit The Baron's Keep",
+      "Ukr": "Повторно відвідати фортецю Барона"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Baron's Keep"
+      "Eng": "The Baron's Keep",
+      "Ukr": "Фортеця Барона"
     }
   }
 ]

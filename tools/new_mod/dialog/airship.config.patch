@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Ти загубився?",
+    "path": "/converse/default/default/30"
+  }
+]

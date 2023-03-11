@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Я в нормі!",
+    "path": "/safe/avian/default/4"
+  }
+]
