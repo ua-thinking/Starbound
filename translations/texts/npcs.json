@@ -13,11 +13,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Aggressive. Did you just look at me funny?"
+      "Eng": "Aggressive. Did you just look at me funny?",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Аби\" замість \"Щоб\""
+    ],
     "Files": {
       "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
         "/scriptConfig/dialog/attack/human/default/3"
@@ -27,7 +30,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you here to challenge me? Do you even know who I am?!"
+      "Eng": "Are you here to challenge me? Do you even know who I am?!",
+      "Ukr": "Ти тут, щоб випробувати мене? Ти взагалі знаєш, хто я такий?"
     }
   },
   {
@@ -41,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Beneath this yellow suit, my heart beats for the love of discovery!"
+      "Eng": "Beneath this yellow suit, my heart beats for the love of discovery!",
+      "Ukr": ""
     }
   },
   {
@@ -55,11 +60,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Earth is lost, and so much fine art with it!"
+      "Eng": "Earth is lost, and so much fine art with it!",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Свіже повітря та свобода - життя для мене!"
+    ],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/2"
@@ -70,7 +78,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fresh air and freedom, that's the life for me!"
+      "Eng": "Fresh air and freedom, that's the life for me!",
+      "Ukr": "Життя для мене - свіже повітря та свобода!"
     }
   },
   {
@@ -84,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello adventurer, mind if I join you?"
+      "Eng": "Hello adventurer, mind if I join you?",
+      "Ukr": ""
     }
   },
   {
@@ -98,7 +108,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am the finest dressed individual at any establishment I visit!"
+      "Eng": "I am the finest dressed individual at any establishment I visit!",
+      "Ukr": ""
     }
   },
   {
@@ -113,7 +124,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind."
+      "Eng": "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind.",
+      "Ukr": ""
     }
   },
   {
@@ -127,11 +139,14 @@
       ]
     },
     "Texts": {
-      "Eng": "I like to think of myself as a space pioneer. Not that I do much pioneering..."
+      "Eng": "I like to think of myself as a space pioneer. Not that I do much pioneering...",
+      "Ukr": ""
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я просто почекаю тут."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/unfollow/default/default/0"
@@ -144,7 +159,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll just wait here."
+      "Eng": "I'll just wait here.",
+      "Ukr": "Я просто зачекаю тут."
     }
   },
   {
@@ -158,7 +174,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm a pioneer, of the space travel kind. I'm exploring new, exciting worlds."
+      "Eng": "I'm a pioneer, of the space travel kind. I'm exploring new, exciting worlds.",
+      "Ukr": ""
     }
   },
   {
@@ -172,7 +189,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm searching for a suitable replacement for Earth. I haven't found anywhere ideal, yet!"
+      "Eng": "I'm searching for a suitable replacement for Earth. I haven't found anywhere ideal, yet!",
+      "Ukr": ""
     }
   },
   {
@@ -195,7 +213,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Intruder!"
+      "Eng": "Intruder!",
+      "Ukr": ""
     }
   },
   {
@@ -209,7 +228,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: A bush in each hand is worth two birds."
+      "Eng": "Maggot Man says: A bush in each hand is worth two birds.",
+      "Ukr": ""
     }
   },
   {
@@ -223,7 +243,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Blood is like thick water."
+      "Eng": "Maggot Man says: Blood is like thick water.",
+      "Ukr": ""
     }
   },
   {
@@ -237,7 +258,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Dead men have no tails."
+      "Eng": "Maggot Man says: Dead men have no tails.",
+      "Ukr": ""
     }
   },
   {
@@ -251,7 +273,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Dogs every day."
+      "Eng": "Maggot Man says: Dogs every day.",
+      "Ukr": ""
     }
   },
   {
@@ -265,7 +288,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Don't put a gift in a horse's mouth."
+      "Eng": "Maggot Man says: Don't put a gift in a horse's mouth.",
+      "Ukr": ""
     }
   },
   {
@@ -279,7 +303,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Don't try to walk and talk if you can't."
+      "Eng": "Maggot Man says: Don't try to walk and talk if you can't.",
+      "Ukr": ""
     }
   },
   {
@@ -293,7 +318,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Feed hands to those who bite you."
+      "Eng": "Maggot Man says: Feed hands to those who bite you.",
+      "Ukr": ""
     }
   },
   {
@@ -307,7 +333,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: I have a thousand pictures of words."
+      "Eng": "Maggot Man says: I have a thousand pictures of words.",
+      "Ukr": ""
     }
   },
   {
@@ -321,7 +348,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: I haven't seen or heard any children."
+      "Eng": "Maggot Man says: I haven't seen or heard any children.",
+      "Ukr": ""
     }
   },
   {
@@ -335,7 +363,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: It's really hard to cry spilt milk."
+      "Eng": "Maggot Man says: It's really hard to cry spilt milk.",
+      "Ukr": ""
     }
   },
   {
@@ -349,7 +378,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Keep finding weeping losers."
+      "Eng": "Maggot Man says: Keep finding weeping losers.",
+      "Ukr": ""
     }
   },
   {
@@ -363,7 +393,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maggot Man says: Mighty swords are not good pens."
+      "Eng": "Maggot Man says: Mighty swords are not good pens.",
+      "Ukr": ""
     }
   },
   {
