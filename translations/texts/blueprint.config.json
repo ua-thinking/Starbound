@@ -7,8 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "<item>",
-      "Por": "<item>"
+      "Eng": "<item>"
     }
   },
   {
@@ -19,8 +18,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Unlocks the <item> crafting schematic.",
-      "Por": "Розблокує схему створення <item>."
+      "Eng": "Unlocks the <item> crafting schematic."
     }
   }
 ]
