@@ -1,13 +1,19 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Жучки",
+      "Комашки",
+      "Комахи",
+      "Жуки"
+    ],
     "Files": {
       "collections/bugs.collection": [
         "/title"
       ]
     },
     "Texts": {
-      "Eng": "Bugs"
+      "Eng": "Bugs",
+      "Ukr": "Інсекти"
     }
   }
 ]
