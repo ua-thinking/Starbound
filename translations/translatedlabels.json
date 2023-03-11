@@ -64,7 +64,7 @@
         "flesh.biome.json": 1,
         "giantflowers.biome.json": 1,
         "hive.biome.json": 1,
-        "mushroompatch.biome.json": 0,
+        "mushroompatch.biome.json": 1,
         "oasis.biome.json": 1,
         "old": {
           "charred": {
@@ -77,7 +77,7 @@
             "rocky.biome.json": 0
           }
         },
-        "prism.biome.json": 0,
+        "prism.biome.json": 1,
         "rust.biome.json": 0,
         "spring.biome.json": 0,
         "steamspring.biome.json": 0,
@@ -144,7 +144,7 @@
     "celestial.config.json": 32,
     "cinematics": {
       "intro": {
-        "introstage.cinematic.json": 0,
+        "introstage.cinematic.json": 6,
         "introstart.cinematic.json": 2
       },
       "mods": {
@@ -157,11 +157,11 @@
         "prison.cinematic.json": 0
       },
       "repair": {
-        "repair.cinematic.json": 0
+        "repair.cinematic.json": 1
       },
       "respawn": {
-        "respawncasual.cinematic.json": 0,
-        "respawnsurvival.cinematic.json": 0
+        "respawncasual.cinematic.json": 1,
+        "respawnsurvival.cinematic.json": 1
       },
       "story": {
         "esther": {
@@ -178,7 +178,7 @@
         "shipupgrade.cinematic.json": 0
       }
     },
-    "client.config.json": 0,
+    "client.config.json": 1,
     "codex": {
       "apex": {
         "apexhistory1.codex.json": 0,
@@ -350,9 +350,9 @@
         "finalpostcard.codex.json": 0,
         "shared_colonystory.json": 0
       },
-      "shared_floran.json": 0
+      "shared_floran.json": 1
     },
-    "codex.config.json": 0,
+    "codex.config.json": 2,
     "collections": {
       "actionfigures.collection.json": 0,
       "bugs.collection.json": 0,
@@ -420,8 +420,8 @@
     "generic": {
       "shared_lightbulb.json": 0
     },
-    "help.config.json": 0,
-    "hunger.config.json": 0,
+    "help.config.json": 1,
+    "hunger.config.json": 1,
     "interface": {
       "ai": {
         "ai.config.json": 0
@@ -13842,7 +13842,7 @@
     "shared_ing.json": 0,
     "shared_interface.json": 0,
     "shared_invisible.json": 0,
-    "shared_key.json": 0,
+    "shared_key.json": 1,
     "shared_laser.json": 0,
     "shared_lunarbaseplatform.mat.json": 0,
     "shared_merchant..json": 0,

@@ -1,16 +1,21 @@
-import json
 import os
+import json
 
-# переконуємося, що поточна робоча директорія - головна директорія проєкту
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+# шлях до папки зі скриптом
+script_dir = os.path.dirname(__file__)
 
-# створюємо папку translations, якщо її ще немає
-if not os.path.exists('translations'):
-    os.makedirs('translations')
+# шлях до папки зі всіма перекладами
+translations_dir = os.path.join(script_dir, "..", "translations")
 
-# створюємо порожні файли з відповідними іменами у папці translations
-with open('translations/totallabels.json', 'w') as f:
+# перевіряємо чи існує папка з перекладами
+if not os.path.exists(translations_dir):
+    os.mkdir(translations_dir)
+
+# створюємо пусті файли
+with open(os.path.join(translations_dir, "totallabels.json"), "w") as f:
     json.dump({}, f)
 
-with open('translations/translation_en.json', 'w') as f:
+with open(os.path.join(translations_dir, "translatedlabels.json"), "w") as f:
     json.dump({}, f)
+    
+print("Файли totallabels.json та translatedlabels.json створено в папці translations")    
