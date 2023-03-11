@@ -144,7 +144,7 @@
     "celestial.config.json": 32,
     "cinematics": {
       "intro": {
-        "introstage.cinematic.json": 6,
+        "introstage.cinematic.json": 0,
         "introstart.cinematic.json": 2
       },
       "mods": {

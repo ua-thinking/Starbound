@@ -77,7 +77,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "найвеличнішим з інструментів",
+      "найкращий інструмент"
+    ],
     "Files": {
       "cinematics/intro/introstage.cinematic": [
         "/panels/26/text"
@@ -85,7 +88,7 @@
     },
     "Texts": {
       "Eng": "Today, in the name of peace, we welcome our newest compatriots, and present them each with our greatest tool...",
-      "Ukr": ""
+      "Ukr": "Сьогодні, во ім'я миру, ми вітаємо наших нових співвітчизників і вручаємо кожному з них наш найвеличніший інструмент..."
     }
   },
   {
