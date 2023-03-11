@@ -1,13 +1,16 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Шар з садовим ядром"
+    ],
     "Files": {
       "biomes/core/gardencorelayer.biome": [
         "/friendlyName"
       ]
     },
     "Texts": {
-      "Eng": "Garden Core Layer"
+      "Eng": "Garden Core Layer",
+      "Ukr": "Шар ядра саду"
     }
   }
 ]
