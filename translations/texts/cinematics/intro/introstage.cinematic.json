@@ -90,7 +90,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Агов, Матуранте! Бери Маніпулятор та біжи! Дістанься безпечної місцини! "
+    ],
     "Files": {
       "cinematics/intro/introstage.cinematic": [
         "/panels/33/text"
@@ -98,7 +100,7 @@
     },
     "Texts": {
       "Eng": "You, Graduate! Take the Manipulator and run! Get to safety!",
-      "Ukr": ""
+      "Ukr": "Агов, Випускнику! Хватай Маніпулятор та тікай! Дістанься безпечної місцини! "
     }
   }
 ]
