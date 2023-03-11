@@ -1,34 +1,28 @@
-name: Create and update translations files
+name: Update Translation Progress
 
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
-  create-and-update-files:
-    name: Створення та оновлення нових файлів
+  update_translation:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-
-    - name: Видалення старих файлів
-      run: |
-        rm -f translations/totallabels.json
-        rm -f translations/translatedlabels.json
-
-    - name: Створення нових файлів
-      working-directory: ./tools
-      run: |
-        git add __pycache__/json_tools.cpython-310.pyc
-        python create_files.py
-        python percents.py
-
-    - name: Комміт
-      run: |
-        git config --global user.name "Ihor Andreew"
-        git config --global user.email "ihor@noleron.com"
-        git add translations/*
-        git commit -m "Оновлення відсотків на сайті"
-        git push
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run percents.py
+        run: python tools/percents.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "ihor@noleron.com"
+          git config --local user.name "Ihor Andreew"
+          git commit -m "Update translation progress"
