@@ -68,7 +68,7 @@
         "oasis.biome.json": 1,
         "old": {
           "charred": {
-            "charred.biome.json": 0
+            "charred.biome.json": 1
           },
           "flowers": {
             "flowers.biome.json": 0
@@ -78,9 +78,9 @@
           }
         },
         "prism.biome.json": 1,
-        "rust.biome.json": 0,
-        "spring.biome.json": 0,
-        "steamspring.biome.json": 0,
+        "rust.biome.json": 1,
+        "spring.biome.json": 1,
+        "steamspring.biome.json": 1,
         "swamp.biome.json": 1
       },
       "underground": {
