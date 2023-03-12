@@ -327,7 +327,7 @@
         }
       },
       "optionalbosses": {
-        "bossdreadwing.codex.json": 0,
+        "bossdreadwing.codex.json": 1,
         "bossshockhopper.codex.json": 0,
         "castleking01.codex.json": 0,
         "castleking02.codex.json": 0,
