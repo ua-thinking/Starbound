@@ -144,7 +144,7 @@
     "celestial.config.json": 32,
     "cinematics": {
       "intro": {
-        "introstage.cinematic.json": 0,
+        "introstage.cinematic.json": 8,
         "introstart.cinematic.json": 2
       },
       "mods": {
@@ -171,7 +171,7 @@
           "finale.cinematic.json": 0
         },
         "opengate": {
-          "opengate.cinematic.json": 0
+          "opengate.cinematic.json": 4
         }
       },
       "upgrading": {
@@ -13845,7 +13845,7 @@
     "shared_key.json": 1,
     "shared_laser.json": 0,
     "shared_lunarbaseplatform.mat.json": 0,
-    "shared_merchant..json": 0,
+    "shared_merchant..json": 1,
     "shared_miningdrone.json": 0,
     "shared_modernplatform.mat.json": 0,
     "shared_monster.json": 0,
