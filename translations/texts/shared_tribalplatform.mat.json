@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Amazed. Stone bricks have been assembled into this platform."
+      "Eng": "Amazed. Stone bricks have been assembled into this platform.",
+      "Ukr": "Я вражений. Кам'яні цеглини були зібрані в цю платформу."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ol' stone bricks setup like a platform."
+      "Eng": "Ol' stone bricks setup like a platform.",
+      "Ukr": "Старі кам'яні цеглини, встановлені як платформа."
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Platform made from old brickss."
+      "Eng": "Platform made from old brickss.",
+      "Ukr": "Платформа зі старої цегли."
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Temple Platform"
+      "Eng": "Temple Platform",
+      "Ukr": "Платформа храму"
     }
   }
 ]
