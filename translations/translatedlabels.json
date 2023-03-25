@@ -107,13 +107,13 @@
         "undergroundtentacles.biome.json": 0
       },
       "underground_detached": {
-        "bonecaves.biome.json": 0,
-        "cellcaves.biome.json": 0,
-        "fleshcave.biome.json": 0,
-        "icecaves.biome.json": 0,
-        "luminouscaves.biome.json": 0,
-        "minivillage.biome.json": 0,
-        "mushrooms.biome.json": 0,
+        "bonecaves.biome.json": 1,
+        "cellcaves.biome.json": 1,
+        "fleshcave.biome.json": 1,
+        "icecaves.biome.json": 1,
+        "luminouscaves.biome.json": 1,
+        "minivillage.biome.json": 1,
+        "mushrooms.biome.json": 1,
         "old": {
           "abandonedmines": {
             "abandonedmines.biome.json": 0
